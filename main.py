@@ -18,5 +18,5 @@ def mytype(var):
 #########
 
 a = myInput("Ievadi datus!")
-print(a)
 print(mytype(a))
+
